@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/kevinhoangdev/static/css/main.8c8b27cf.chunk.css",
+    "main.js": "/kevinhoangdev/static/js/main.c41e4493.chunk.js",
+    "main.js.map": "/kevinhoangdev/static/js/main.c41e4493.chunk.js.map",
+    "runtime-main.js": "/kevinhoangdev/static/js/runtime-main.5c055cff.js",
+    "runtime-main.js.map": "/kevinhoangdev/static/js/runtime-main.5c055cff.js.map",
+    "static/js/2.0a9a07c6.chunk.js": "/kevinhoangdev/static/js/2.0a9a07c6.chunk.js",
+    "static/js/2.0a9a07c6.chunk.js.map": "/kevinhoangdev/static/js/2.0a9a07c6.chunk.js.map",
+    "static/js/3.616a4c97.chunk.js": "/kevinhoangdev/static/js/3.616a4c97.chunk.js",
+    "static/js/3.616a4c97.chunk.js.map": "/kevinhoangdev/static/js/3.616a4c97.chunk.js.map",
+    "index.html": "/kevinhoangdev/index.html",
+    "static/css/main.8c8b27cf.chunk.css.map": "/kevinhoangdev/static/css/main.8c8b27cf.chunk.css.map",
+    "static/js/2.0a9a07c6.chunk.js.LICENSE.txt": "/kevinhoangdev/static/js/2.0a9a07c6.chunk.js.LICENSE.txt",
+    "static/media/logo.103b5fa1.svg": "/kevinhoangdev/static/media/logo.103b5fa1.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5c055cff.js",
+    "static/js/2.0a9a07c6.chunk.js",
+    "static/css/main.8c8b27cf.chunk.css",
+    "static/js/main.c41e4493.chunk.js"
+  ]
+}
