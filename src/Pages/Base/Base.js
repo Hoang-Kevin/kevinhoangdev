@@ -1,5 +1,6 @@
 import './Base.css';
 
+import { useState, useEffect } from 'react';
 import ReactTextTransition, { presets } from "react-text-transition";
 import Image from 'react-bootstrap/Image';
 import Zoom from 'react-reveal/Zoom';
@@ -13,8 +14,8 @@ function Base() {
       <div className="Base">
         <div className="Background">
           <Particles 
-            width={1920}
-            height={1080}
+            width={window.width}
+            height={window.height}
             params={{
                 "particles": {
                   "number": {
