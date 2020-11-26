@@ -1,24 +1,29 @@
 {
   "files": {
-    "main.css": "/kevinhoangdev/static/css/main.73c16935.chunk.css",
-    "main.js": "/kevinhoangdev/static/js/main.6619c88f.chunk.js",
-    "main.js.map": "/kevinhoangdev/static/js/main.6619c88f.chunk.js.map",
-    "runtime-main.js": "/kevinhoangdev/static/js/runtime-main.feb519c1.js",
-    "runtime-main.js.map": "/kevinhoangdev/static/js/runtime-main.feb519c1.js.map",
-    "static/js/2.fc9b4e85.chunk.js": "/kevinhoangdev/static/js/2.fc9b4e85.chunk.js",
-    "static/js/2.fc9b4e85.chunk.js.map": "/kevinhoangdev/static/js/2.fc9b4e85.chunk.js.map",
-    "static/js/3.e2ee3f03.chunk.js": "/kevinhoangdev/static/js/3.e2ee3f03.chunk.js",
-    "static/js/3.e2ee3f03.chunk.js.map": "/kevinhoangdev/static/js/3.e2ee3f03.chunk.js.map",
+    "main.css": "/kevinhoangdev/static/css/main.8d30bd74.chunk.css",
+    "main.js": "/kevinhoangdev/static/js/main.252f9d93.chunk.js",
+    "main.js.map": "/kevinhoangdev/static/js/main.252f9d93.chunk.js.map",
+    "runtime-main.js": "/kevinhoangdev/static/js/runtime-main.c5f5bf1e.js",
+    "runtime-main.js.map": "/kevinhoangdev/static/js/runtime-main.c5f5bf1e.js.map",
+    "static/js/2.67bd7569.chunk.js": "/kevinhoangdev/static/js/2.67bd7569.chunk.js",
+    "static/js/2.67bd7569.chunk.js.map": "/kevinhoangdev/static/js/2.67bd7569.chunk.js.map",
+    "static/js/3.51da1a7f.chunk.js": "/kevinhoangdev/static/js/3.51da1a7f.chunk.js",
+    "static/js/3.51da1a7f.chunk.js.map": "/kevinhoangdev/static/js/3.51da1a7f.chunk.js.map",
     "index.html": "/kevinhoangdev/index.html",
-    "static/css/main.73c16935.chunk.css.map": "/kevinhoangdev/static/css/main.73c16935.chunk.css.map",
-    "static/js/2.fc9b4e85.chunk.js.LICENSE.txt": "/kevinhoangdev/static/js/2.fc9b4e85.chunk.js.LICENSE.txt",
+    "static/css/main.8d30bd74.chunk.css.map": "/kevinhoangdev/static/css/main.8d30bd74.chunk.css.map",
+    "static/js/2.67bd7569.chunk.js.LICENSE.txt": "/kevinhoangdev/static/js/2.67bd7569.chunk.js.LICENSE.txt",
+    "static/media/Ampoule.8422b025.png": "/kevinhoangdev/static/media/Ampoule.8422b025.png",
+    "static/media/English.f76a53c3.png": "/kevinhoangdev/static/media/English.f76a53c3.png",
+    "static/media/Fast.06d77fcc.png": "/kevinhoangdev/static/media/Fast.06d77fcc.png",
     "static/media/IMG_1569.958dfb93.png": "/kevinhoangdev/static/media/IMG_1569.958dfb93.png",
+    "static/media/Polyvalent.1f470a63.png": "/kevinhoangdev/static/media/Polyvalent.1f470a63.png",
+    "static/media/Teamwork.216aaf0b.png": "/kevinhoangdev/static/media/Teamwork.216aaf0b.png",
     "static/media/logo.103b5fa1.svg": "/kevinhoangdev/static/media/logo.103b5fa1.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.feb519c1.js",
-    "static/js/2.fc9b4e85.chunk.js",
-    "static/css/main.73c16935.chunk.css",
-    "static/js/main.6619c88f.chunk.js"
+    "static/js/runtime-main.c5f5bf1e.js",
+    "static/js/2.67bd7569.chunk.js",
+    "static/css/main.8d30bd74.chunk.css",
+    "static/js/main.252f9d93.chunk.js"
   ]
 }
