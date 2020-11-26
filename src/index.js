@@ -4,11 +4,12 @@ import './index.css';
 import Base from './Pages/Base/Base';
 import About from './Pages/About/About';
 import reportWebVitals from './reportWebVitals';
+import InfoContainer from './infoContainer';
+
 
 ReactDOM.render(
   <React.StrictMode>
-    <Base />
-    <About />
+    <InfoContainer/>
   </React.StrictMode>,
   document.getElementById('root')
 );

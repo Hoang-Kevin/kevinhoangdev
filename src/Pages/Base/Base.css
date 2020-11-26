@@ -24,6 +24,17 @@
     z-index: 3;
   }
   
+  .SwitchLanguage{
+    position: absolute;
+    top: 0;
+    right: 0;
+  }
+
+  .Flag img{
+    width: 70px;
+    height: auto; 
+  }
+
   .Cadre {
     position: relative;
     width: 250px;
