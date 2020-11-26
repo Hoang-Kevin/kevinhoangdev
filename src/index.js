@@ -2,13 +2,13 @@ import React from 'react';
 import ReactDOM from 'react-dom';
 import './index.css';
 import Base from './Pages/Base/Base';
-import Portfolio from './Pages/Portfolio/Portfolio';
+import About from './Pages/About/About';
 import reportWebVitals from './reportWebVitals';
 
 ReactDOM.render(
   <React.StrictMode>
     <Base />
-    <Portfolio />
+    <About />
   </React.StrictMode>,
   document.getElementById('root')
 );
