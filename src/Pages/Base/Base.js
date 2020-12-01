@@ -2,7 +2,6 @@ import './Base.css';
 import { useState, useEffect, useContext } from 'react';
 import LanguageContext from '../../languageContext';
 import ReactTextTransition, { presets } from "react-text-transition";
-import Image from 'react-bootstrap/Image';
 import Zoom from 'react-reveal/Zoom';
 import Particles from 'react-particles-js';
 import Sazuphoto from "../../IMG/IMG_1569.png";
