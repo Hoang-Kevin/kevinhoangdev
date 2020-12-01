@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/kevinhoangdev/static/css/main.076cfb3d.chunk.css",
-    "main.js": "/kevinhoangdev/static/js/main.252f9d93.chunk.js",
-    "main.js.map": "/kevinhoangdev/static/js/main.252f9d93.chunk.js.map",
-    "runtime-main.js": "/kevinhoangdev/static/js/runtime-main.c5f5bf1e.js",
-    "runtime-main.js.map": "/kevinhoangdev/static/js/runtime-main.c5f5bf1e.js.map",
-    "static/js/2.67bd7569.chunk.js": "/kevinhoangdev/static/js/2.67bd7569.chunk.js",
-    "static/js/2.67bd7569.chunk.js.map": "/kevinhoangdev/static/js/2.67bd7569.chunk.js.map",
-    "static/js/3.51da1a7f.chunk.js": "/kevinhoangdev/static/js/3.51da1a7f.chunk.js",
-    "static/js/3.51da1a7f.chunk.js.map": "/kevinhoangdev/static/js/3.51da1a7f.chunk.js.map",
+    "main.js": "/kevinhoangdev/static/js/main.38a1b18a.chunk.js",
+    "main.js.map": "/kevinhoangdev/static/js/main.38a1b18a.chunk.js.map",
+    "runtime-main.js": "/kevinhoangdev/static/js/runtime-main.89cf73e4.js",
+    "runtime-main.js.map": "/kevinhoangdev/static/js/runtime-main.89cf73e4.js.map",
+    "static/js/2.613410b4.chunk.js": "/kevinhoangdev/static/js/2.613410b4.chunk.js",
+    "static/js/2.613410b4.chunk.js.map": "/kevinhoangdev/static/js/2.613410b4.chunk.js.map",
+    "static/js/3.9fdc182f.chunk.js": "/kevinhoangdev/static/js/3.9fdc182f.chunk.js",
+    "static/js/3.9fdc182f.chunk.js.map": "/kevinhoangdev/static/js/3.9fdc182f.chunk.js.map",
     "index.html": "/kevinhoangdev/index.html",
     "static/css/main.076cfb3d.chunk.css.map": "/kevinhoangdev/static/css/main.076cfb3d.chunk.css.map",
-    "static/js/2.67bd7569.chunk.js.LICENSE.txt": "/kevinhoangdev/static/js/2.67bd7569.chunk.js.LICENSE.txt",
+    "static/js/2.613410b4.chunk.js.LICENSE.txt": "/kevinhoangdev/static/js/2.613410b4.chunk.js.LICENSE.txt",
     "static/media/Ampoule.8422b025.png": "/kevinhoangdev/static/media/Ampoule.8422b025.png",
     "static/media/English.f76a53c3.png": "/kevinhoangdev/static/media/English.f76a53c3.png",
     "static/media/Fast.06d77fcc.png": "/kevinhoangdev/static/media/Fast.06d77fcc.png",
@@ -21,9 +21,9 @@
     "static/media/logo.103b5fa1.svg": "/kevinhoangdev/static/media/logo.103b5fa1.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.c5f5bf1e.js",
-    "static/js/2.67bd7569.chunk.js",
+    "static/js/runtime-main.89cf73e4.js",
+    "static/js/2.613410b4.chunk.js",
     "static/css/main.076cfb3d.chunk.css",
-    "static/js/main.252f9d93.chunk.js"
+    "static/js/main.38a1b18a.chunk.js"
   ]
 }
