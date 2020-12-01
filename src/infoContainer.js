@@ -5,6 +5,7 @@ import FormControlLabel from '@material-ui/core/FormControlLabel';
 import FormControl from '@material-ui/core/FormControl';
 import About from './Pages/About/About';
 import Base from './Pages/Base/Base';
+import Contact from './Pages/Contact/Contact';
 import Timeline from './Pages/Timeline/Timeline';
 import { LanguageProvider } from './languageContext';
 import France from './IMG/France.png';
@@ -44,6 +45,7 @@ const InfoContainer = props => {
                 <Base />
                 <About />
                 <Timeline />
+                <Contact />
             </LanguageProvider>
         </div>
     )
