@@ -28,9 +28,9 @@ function About() {
         Versatile: "Polyvalent",
         VersatileContent: "Je suis capable de m'adapter rapidement à vos projets et choix techniques",
         TeamWork: "Travail d'équipe",
-        TeamWorkContent: "Je suis à l'aise avec le travail d'équipe, notamment grâce à la formation Problem-based learning proposé dans mon école",
+        TeamWorkContent: "Je suis à l'aise avec le travail d'équipe, notamment grâce à la méthodologie Problem-based learning utilisée par mon école",
         Profil: "Profil",
-        ProfilContent: "Je suis un informaticien passionné et motivé ayant de l'expérience autant en développement WEB qu'en programmation de logiciels. Je cherche actuellement un stage du 04/01/2021 au 16/04/2021 me permettant de pratiquer dans le développement de vos projets",
+        ProfilContent: "Je suis un informaticien passionné et motivé ayant de l'expérience autant en développement WEB qu'en programmation de logiciels. Je cherche actuellement un stage du 04/01/2021 au 16/04/2021 durant lequel je pourrai acquérir des compétences et les mettre au service de vos projets",
         Skill: "Compétences",
       })
     }
@@ -46,18 +46,19 @@ function About() {
         TeamWork: "Team Work",
         TeamWorkContent: "I am comfortable with teamwork, I have been specially trained with Problem-based learning",
         Profil: "Profile",
-        ProfilContent: "I am a passionate and motivated professional used to work in a team-based environment. I am looking for an internship from 04/01/2021 to 16/04/2021 in order to get more experience in project building",
+        ProfilContent: "I am a passionate and motivated professional used to work in a team-based environment. I am looking for an internship from 04/01/2021 to 16/04/2021 in which I could acquire skills and expertise to put them at the service of your projects",
         Skill: "Skills",
       })
     }
   }
 
   const skills = [
-    { type: "REACT", level: 90 },
     { type: "C#/.NET", level: 90 },
+    { type: "REACT", level: 85 },
     { type: 'NodeJS', level: 85 },
-    { type: 'SQL', level: 70 },
     { type: 'MongoDB', level: 80 },
+    { type: 'SQL', level: 75 },
+    { type: 'C++', level: 70 },
     { type: 'JAVA', level: 70 },
     { type: 'PHP', level: 65 },
   ];
