@@ -25,6 +25,7 @@ function Timeline() {
         CesiSub: "Méthodologie Problem-based learning, où l'évaluation finale est un projet fait en équipe",
         Project1: "Application mobile React Native",
         Project1Sub: "Projet d'application mobile pour la gestion de lavage de masque en tissu ainsi que d'autres fonctionnalités aidant pendant la crise sanitaire. L'application utilise les technologies React Native, MongoDB, Expo, NodeJS",
+        LastLine: "En recherche de stage",
       })
     }
     else {
@@ -35,6 +36,7 @@ function Timeline() {
         CesiSub: "Engineering school using PBL methodology, where final exams are real projects done in a team",
         Project1: "Mobile App in React Native",
         Project1Sub: "Mobile App helping counting the number of washes for the masks made of fabric during the outbreak. The application uses React Native, MongoDB, Expo and NodeJS",
+        LastLine: "Looking for an internship",
       })
     }
   }
@@ -51,7 +53,7 @@ function Timeline() {
           className="vertical-timeline-element--work"
           contentStyle={{ background: 'rgb(33, 150, 243)', color: 'black' }}
           contentArrowStyle={{ borderRight: '7px solid  rgb(33, 150, 243)' }}
-          date="2016 - Present"
+          date="2016"
           iconStyle={{ background: 'rgb(33, 150, 243)', color: '#fff' }}
 
         >
@@ -61,7 +63,7 @@ function Timeline() {
         </VerticalTimelineElement>
         <VerticalTimelineElement
           className="vertical-timeline-element--work"
-          date="2018"
+          date="2018 - Present"
           iconStyle={{ background: 'rgb(33, 150, 243)', color: '#fff' }}
 
         >
@@ -88,7 +90,7 @@ function Timeline() {
           iconStyle={{ background: 'rgb(33, 150, 243)', color: '#fff' }}
           icon={<DevIcon icon="terminal_badge" style={{fill:"White"}}/>}
         >
-          <h3 className="vertical-timeline-element-title">En recherche de stage</h3>
+          <h3 className="vertical-timeline-element-title">{languageDictionary.LastLine}</h3>
 
         </VerticalTimelineElement>
 
