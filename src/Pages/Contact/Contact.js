@@ -23,6 +23,21 @@ function Contact() {
     setLanguage();
   }, [language]);
 
+  const setLanguage = () => {
+    if (language.currentLanguage == "fr") {
+      setLanguageDictionary({
+        Contact: "Contactez-moi !",
+        Name: "Nom",
+      })
+    }
+    else {
+      setLanguageDictionary({
+        Contact: "Contact me !",
+        Name: "Name",
+      })
+    }
+  }
+
   const useStyles = makeStyles((theme) => ({
     root: {
       '& > *': {
@@ -61,20 +76,6 @@ function Contact() {
   }
 
 
-  const setLanguage = () => {
-    if (language.currentLanguage == "fr") {
-      setLanguageDictionary({
-        Developer: "Développeur",
-        FullStack: "Full-Stack"
-      })
-    }
-    else {
-      setLanguageDictionary({
-        Developer: "Full-Stack",
-        FullStack: "Developer"
-      })
-    }
-  }
 
 
   const sentButton = () => {
@@ -108,10 +109,12 @@ function Contact() {
   }
   return (
     <div className="Contact">
-      <h2> Contact me!</h2>
+      <div className="ContactTitle">
+        <h2> {languageDictionary.Contact}</h2>
+      </div>
       <form className={classes.root} autoComplete="off" onSubmit={(event) => { handleSubmit(event) }}>
         <div className="ContactTextBox">
-          <TextField required id="standard-basic" label="Nom" fullWidth value={userName} onChange={e => setUserName(e.target.value)} />
+          <TextField required id="standard-basic" label={languageDictionary.Name} fullWidth value={userName} onChange={e => setUserName(e.target.value)} />
         </div>
         <div className="ContactTextBox">
           <TextField required id="filled-basic" label="Email" fullWidth value={email} onChange={e => setEmail(e.target.value)} />
