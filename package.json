@@ -16,12 +16,15 @@
     "react-bootstrap": "^1.4.0",
     "react-dom": "^17.0.1",
     "react-particles-js": "^3.4.1",
+    "react-player": "^2.7.0",
     "react-reveal": "^1.2.2",
     "react-rounded-image": "^2.0.11",
     "react-scripts": "4.0.0",
     "react-skillbars": "^1.6.1",
     "react-text-transition": "^1.1.2",
     "react-vertical-timeline-component": "^3.3.1",
+    "redux": "^4.0.5",
+    "video-react": "^0.14.1",
     "web-vitals": "^0.2.4"
   },
   "scripts": {

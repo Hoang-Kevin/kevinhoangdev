@@ -38,4 +38,21 @@
       transform: rotate(360deg);
     }
   }
+
+  .modalText{
+    font-size: 20px;
+  }
+
+  @media(max-width: 1000px){
+    .modalText{
+      font-size: 12px;
+    }
+  }
   
+  .modalImg{
+
+  }
+
+  .modalImg img {
+    
+  }
